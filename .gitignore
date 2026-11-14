@@ -27,3 +27,8 @@ local.properties
 !.env.example
 *.log
 
+
+# Local-only: AI-agent notes, IDE settings and build outputs
+AUDIT.md
+BACKLOG.md
+*.apk
